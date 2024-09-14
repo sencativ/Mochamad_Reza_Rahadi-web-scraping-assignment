@@ -16,7 +16,7 @@ To complete this project, the following Python libraries are used:
 You can install beautifulsoup4 libraries using `pip` to run this project:
 
 ```bash
-pip install beautifulsoup4 requests
+pip install beautifulsoup4
 ```
 
 This project was tested on google collaboratory, so the rest of the libraries beside of beautifulsoup4 were installed in the Google Collab Environment.
